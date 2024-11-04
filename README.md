@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://github.com/user-attachments/assets/0fa482a3-b7da-4101-8e4f-85724fee9b2a" alt="Vitor Thomé" width="200"></a>
+  <a href="https://github.com/vfthome"><img src="https://github.com/user-attachments/assets/0fa482a3-b7da-4101-8e4f-85724fee9b2a" alt="Vitor Thomé" width="200"></a>
   <br>
   Vitor Thomé
   <br>
