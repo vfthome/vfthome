@@ -1,6 +1,6 @@
 [![](https://github.com/user-attachments/assets/0fa482a3-b7da-4101-8e4f-85724fee9b2a)](#)
 
-## Hi there! 👋🏻
+### Hi there! 👋🏻
 
 I am a Software Engineer with a Bachelor’s Degree in Electronics Engineering, passionate about creating scalable, sustainable and user friendly solutions. I believe engineering, when applied strategically, drives significant change for businesses and communities.
 
@@ -13,4 +13,3 @@ As CTO at Navalcare, I led the creation of a mobile ecosystem using Flutter, Rea
 My studies at UFSC and research at the Radio Frequency Laboratory (LRF) taught me to break down complex challenges into manageable tasks, enabling me to achieve clear goals and choose the best tradeoffs for delivering valuable results based on each project’s specifications.
 
 Feel free to reach out anytime!
-
